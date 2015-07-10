@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CoordinatorLayoutDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="txt_joy">Joy is the protagonist of the film Inside Out. She is the main emotion out of the five that live inside the mind of Riley. Fittingly, she appears to be happy all the time and full of energy.
+\n\n
+Amy Poehler describes her as follows: "Joy is the engine. She keeps everyone moving and happy. She represents the parts of Riley that are starting to change and become more complicated, and she is reluctant to let that change happen. She may be the most positive, but in many ways, she is the least flexible."[1]
+\n\n
+Official Bio
+"Joy’s goal has always been to make sure Riley stays happy. She is lighthearted, optimistic and determined to find the fun in every situation. Joy sees challenges in Riley\’s life as opportunities, and the less happy moments as hiccups on the way back to something great. As long as Riley is happy, so is Joy."[2]
+\n\n
+Appearance
+Joy has yellow flesh colour skin, blue hair and large blue eyes. She wears a lime green summer dress adorned with blue flower-like motifs and is the only emotion not wearing shoes. She is surrounded by a blue halo and emits a bright golden glow, brighter than that of any of the other emotions.
+\n\n
+Trivia
+Joy is the second female protagonist of a Pixar movie, the first being Merida.
+It is hinted that she may have developed romantic feelings for Sadness over the course of the film.</string>
+    <string name="txt_sadness">None of the other Emotions really understand what Sadness\’s role is. Sadness would love to be more optimistic and helpful in keeping Riley happy, but she finds it so hard to be positive. Sometimes it seems like the best thing to do is just lie on the floor and have a good cry.</string>
+    <string name="txt_anger">Anger feels very passionately about making sure things are fair for Riley. He has a fiery spirit and tends to explode (literally) when things don\’t go as planned. He is quick to overreact and has little patience for life\’s imperfections.</string>
+    <string name="txt_clown">Jangles is an evil clown who lives in the mind of Riley Andersen. He is imprisoned in Subconscious, the darkest part of her mind. When Joy and Sadness enter that place to find Bing Bong, they find him detained on top of Jangles. After they rescue Bing Bong, they wake up Jangles so he can wake Riley up in order for Joy and Sadness to ride the Train of Thought to get home to Headquarters. They lower Jangles into Dream Productions, where Riley captures his image and wakes. Joy, Sadness and Bing Bong then hop on the Train of Thought and escape Jangles.</string>
+    <string name="txt_forgotter">Forgetters Paula and Bob are characters in Inside Out. As Forgetters, the job of these Mind Workers is to go through the millions of memories stored in Long Term Memory to identify the obsolete ones and dispose of them in the Memory Dump. The Forgetters appreciation of memories is in no way sentimental or practical, and is really solely based on how faded or strong a memory is. This leads them to dispose of memories one would consider useful (such as the names of US Presidents, or those of the fairies on a TV show) because they are faded, and to treasure annoying memories because they are strong. In particular, they adore the Tripledent gum commercial, to the point that they sometimes send it to Headquarters for no reason at all.</string>
+    <string name="txt_digust">Disgust is highly opinionated, extremely honest and prevents Riley from getting poisoned — both physically and socially. She keeps a careful eye on the people, places and things that Riley comes into contact with — whether that\’s broccoli or last year\’s fashion trend. Disgust always has the best of intentions and refuses to lower her standards.</string>
+    <string name="txt_fear">Fear\’s main job is to protect Riley and keep her safe. He is constantly on the lookout for potential disasters, and spends time evaluating the possible dangers, pitfalls and risk involved in Riley\’s everyday activities. There are very few activities and events that Fear does not find to be dangerous and possibly fatal.</string>
+    <string name="txt_bingbong">Bing Bong is Riley\'s imaginary friend that exists within her mind. He was created by her when she was 3. As a result, he is somewhat naive in both his appearance and personality. For instance, he does not know how to read. Bing Bong\'s body is mainly made of cotton candy. Shape-wise, he is part cat for the tail, part elephant for his trunk, and part dolphin, though the latter is not so obvious. He cries candy when he\'s sad.</string>
+
+
+    <string name="txt_overview">A girl named Riley Andersen is born in Minnesota, in her mind, five personified emotions are created over time: Joy, Sadness, Fear, Disgust and Anger. The emotions are charged with reacting to Riley\'s circumstances and forming her memories, which are housed in spheres that produce a certain color depending on the emotion of the memory. The most important memories, which are known as "the core memories," power five "Islands of Personality" that each reflect a different aspect of Riley\'s personality: Family Island, Friendship Island, Hockey Island, Honesty Island, and Goofball Island.
+
+Each emotion also has a defined purpose in Riley\'s life: Joy makes sure she is happy, Fear keeps her safe, Anger keeps her life fair and Disgust prevents her from being poisoned, both physically and socially. Sadness, however, doesn\'t believe she has a purpose in her mind, or that of the other emotions, and is constantly ignored as a result.</string>
+</resources>
